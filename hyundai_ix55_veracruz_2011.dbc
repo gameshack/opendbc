@@ -44,6 +44,7 @@ BO_ 496 NEW_MSG_1: 8 XXX
  SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_7 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 809 NEW_MSG_2: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
@@ -57,12 +58,13 @@ BO_ 809 NEW_MSG_2: 8 XXX
 
 BO_ 608 NEW_MSG_3: 8 XXX
  SG_ NEW_SIGNAL_1 : 8|8@1+ (1,0) [0|255] "" XXX
- SG_ break_pedal : 0|8@1+ (1,0) [0|255] "" XXX
- SG_ fuel_consumption : 23|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 31|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 39|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_4 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_5 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ fuel_consumption : 23|8@0+ (1,0) [0|255] "" XXX
+ SG_ break_pedal : 0|8@1+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 497 NEW_MSG_4: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
@@ -83,6 +85,8 @@ BO_ 1087 NEW_MSG_5: 8 XXX
  SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_7 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_9 : 7|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_10 : 15|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 1088 NEW_MSG_6: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
@@ -92,16 +96,17 @@ BO_ 1088 NEW_MSG_6: 8 XXX
  SG_ NEW_SIGNAL_5 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_6 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_7 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_8 : 23|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 790 NEW_MSG_7: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
- SG_ NEW_SIGNAL_4 : 31|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_5 : 39|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_7 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_4 : 31|8@0+ (1,0) [0|255] "" XXX
 
 BO_ 1349 NEW_MSG_8: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
@@ -131,8 +136,9 @@ BO_ 672 NEW_MSG_10: 8 XXX
  SG_ NEW_SIGNAL_6 : 47|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_7 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 1232 NEW_MSG_11: 8 XXX
+BO_ 1232 static2XXX: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
@@ -142,7 +148,7 @@ BO_ 1232 NEW_MSG_11: 8 XXX
  SG_ NEW_SIGNAL_7 : 55|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_8 : 63|8@0+ (1,0) [0|255] "" XXX
 
-BO_ 1552 NEW_MSG_12: 8 XXX
+BO_ 1552 staticXXX: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 15|8@0+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_3 : 23|8@0+ (1,0) [0|255] "" XXX
